@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1fdcc53d97ea74c438f286fe217e1289, type: 3}
+  m_Name: Kog'Mao
+  m_EditorClassIdentifier: 
+  id: 2
+  name: Kog'Mao
+  cost: 3
+  rarity: 1
+  description: 'On Death: deal my attack among local enemies'
+  maxHealth: 2
+  health: 2
+  attack: 3
+  taunt: 0
+  rush: 0
+  charge: 0
+  fastAttack: 1
+  vamperize: 0
+  armor: 0
+  bloodthirstiness: 0
+  sprite: {fileID: 0}
